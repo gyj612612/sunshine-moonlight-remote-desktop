@@ -1,0 +1,10 @@
+# Reference only. Merge manually after reviewing your existing settings.
+# Keep the administration UI local; remote streaming still requires pairing.
+origin_web_ui_allowed = pc
+upnp = disabled
+
+# Only when a Sunshine tray crash has been diagnosed:
+# system_tray = disabled
+
+# Capture and encoding are intentionally not forced across platforms.
+# Do not copy credentials, session paths, display modes, or host addresses here.
